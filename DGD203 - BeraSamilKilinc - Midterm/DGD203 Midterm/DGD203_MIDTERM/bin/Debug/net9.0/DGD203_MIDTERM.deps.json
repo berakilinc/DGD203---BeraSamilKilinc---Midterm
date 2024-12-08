@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DGD203_MIDTERM/1.0.0": {
+        "runtime": {
+          "DGD203_MIDTERM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DGD203_MIDTERM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
